@@ -3,7 +3,7 @@
 
 
 
-### This is the capstone project of the Nanodegree program which Required:
+### This is the capstone project :rocket: of the Nanodegree program which Required:
 
 - [ ] User workflow
 - [ ] User needs 
