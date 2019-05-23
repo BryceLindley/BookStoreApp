@@ -21,3 +21,6 @@ __This project is about combining various ideas and skills we’ve been practici
 4.   __Presenting information from files and SQLite databases to users__
 5.   __Updating information based on user input__
 6.   __Creating intents to other apps using stored information__
+
+
+![App Picture](https://github.com/BryceLindley/SQLite-database/blob/master/app/Screenshot_1556334537.png)
