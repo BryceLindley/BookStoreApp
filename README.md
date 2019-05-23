@@ -1,10 +1,10 @@
 
-### This is the capstone project of the Nanodegree program
+### This is the capstone project of the Nanodegree program which Required:
 
-- [ ] user workflow
-- [ ] user needs 
-- [ ] backend database storage 
-- [ ] networking 
+- [ ] User workflow
+- [ ] User needs 
+- [ ] Backend database storage 
+- [ ] Networking 
 - [ ] UI development
 
 A strong foundation in the above skills are foundational to Android development worldwide. 
